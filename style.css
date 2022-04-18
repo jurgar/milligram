@@ -1,20 +1,15 @@
 body{
-    background-image: url("https://arabiconline.eu/wp-content/uploads/2018/04/arabic-tiles-wallpaper-1080x675.jpg")
-  
+    background-image: url("https://arabiconline.eu/wp-content/uploads/2018/04/arabic-tiles-wallpaper-1080x675.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 header img{
     height: 80px;
+    margin-left: 600px;
 }
-main form{
-    height: 100px;
+.background{
     padding:60px;
-    margin:30px 60px;
+    margin:30px 400px;
     background-color: rgb(239, 239, 224);
    
 }
-/* fieldset{
-    height: 30px;
-    width: 10px; */
-   
-}
-
